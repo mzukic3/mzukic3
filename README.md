@@ -1,5 +1,5 @@
 # Portfolio #
-Android and iOS that I have worked on
+Android and iOS apps that I have worked on
 
 ## Felcana App ##
 
